@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Caslu</h1>
 
 **About me**
-- 💼 Platform Engineer working for a French Ministry, focused on modernizing public infrastructure and improving digital services for citizens
 - 🔧 Building and maintaining CI/CD pipelines, automating deployments, and ensuring reliable infrastructure operations
 - 🛠️ Passionate about Infrastructure as Code (IaaS), containerization, and cloud-native technologies
 - 🌱 Currently exploring [Jenkins, Jupyter, Terraform, GitOps, etc.]
