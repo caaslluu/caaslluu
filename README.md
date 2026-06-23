@@ -6,5 +6,5 @@
 - 🌱 Currently exploring [Jenkins, Jupyter, Terraform, GitOps, etc.]
 
 **What you'll find here**
-Personal projects, automation scripts, and DevOps experiments built with ❤️
+Personal projects, automation scripts, and DevOps experiments.
 
